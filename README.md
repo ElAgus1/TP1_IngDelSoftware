@@ -4,8 +4,13 @@ El codigo del Producto y de el proveedor debe ser unico, utilizando una codifica
 Esto se utiliza para darle unicidad a la prenda que se este cargando.
 
 # Validación
-Codigo del Producto:
+
+###Codigo del Producto:
+
 * Validar que cumpla con el estandar de codificacion (codigo de barra y numerico)
-Nombre del producto:
+
+###Nombre del producto:
+
 * Validar que el campo no este vacio (llenado obligatorio)
-Descripción
+
+###Descripción
