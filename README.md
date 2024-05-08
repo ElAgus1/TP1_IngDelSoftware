@@ -14,3 +14,17 @@ Nombre del producto:
 * Validar que el campo no este vacio (llenado obligatorio)
 
 Descripción
+
+* Validar que tenga entre 50 - 300 caracteres
+
+Codigo Proveedor
+
+* Validar que el codigo sea en formato numerico (id_Proveedor)
+
+Fecha 
+
+* Validar que este en el formato dd-mm-aaaa
+
+Stock inicial
+
+* Validar que el el ingreso sea en numero enteros
