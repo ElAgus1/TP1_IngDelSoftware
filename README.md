@@ -1,3 +1,6 @@
+Integrantes: 
+Pillack, Juan Pablo
+Davila, Agustin
 # Trabajo práctico 1​: Codificación y validaciones​
 # Codificación
 El codigo del Producto y de el proveedor debe ser unico, utilizando una codificacion numerica y de barra, que se encuentra en la etiqueta que tiene la prenda.
