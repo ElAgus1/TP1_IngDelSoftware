@@ -1,5 +1,7 @@
 Integrantes: 
+
 Pillack, Juan Pablo
+
 Davila, Agustin
 # Trabajo práctico 1​: Codificación y validaciones​
 # Codificación
