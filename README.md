@@ -3,6 +3,13 @@ Integrantes:
 Pillack, Juan Pablo
 
 Davila, Agustin
+
+links:
+
+https://excalidraw.com/#room=8f37a6ea774ca5527443,rz9RZYd10R1OyoxSZp1ZIA
+
+https://www.figma.com/design/tBvtvG6Q8bEgOHd7OoFv6k/Prototipo-de-Pantalla-de-Carga-de-Pedidos?node-id=0%3A1&t=hLeXEuXOpj2dxUT9-1
+
 # Trabajo práctico 1​: Codificación y validaciones​
 # Codificación
 El codigo del Producto y de el proveedor debe ser unico, utilizando una codificacion numerica y de barra, que se encuentra en la etiqueta que tiene la prenda, se podra diferenciar el producto.
