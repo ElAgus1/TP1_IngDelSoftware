@@ -46,3 +46,7 @@ Stock inicial
 Punto de pedido
 
 * Validar que la seleccion del codigo de punto de pedido sea realizado
+
+Precio de compra
+
+* Validar que se coloque numeros enteros
